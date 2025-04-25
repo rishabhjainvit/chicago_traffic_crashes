@@ -1,6 +1,3 @@
-/*
-	Chicago Traffic Crashes
-*/
 
 
 DROP TABLE IF EXISTS crashes;
